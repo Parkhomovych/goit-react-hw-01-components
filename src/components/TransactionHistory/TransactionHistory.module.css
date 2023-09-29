@@ -1,0 +1,19 @@
+.transaction {
+  width: 720px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 2px solid transparent;
+  border-collapse: collapse;
+}
+.thead {
+  background-color: aqua;
+  height: 40px;
+}
+.list:nth-child(2n) {
+  background-color: rgb(222, 222, 203);
+}
+
+.item {
+  height: 40px;
+  text-align: center;
+}
