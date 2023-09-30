@@ -10,15 +10,12 @@
 
   border: 1px solid aquamarine;
 }
-.online {
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  background-color: green;
-}
-.ofline {
+.stat{
   width: 20px;
   height: 20px;
   border-radius: 50%;
   background-color: red;
+}
+.stat.online {
+  background-color: green;
 }
